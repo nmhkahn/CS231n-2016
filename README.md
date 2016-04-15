@@ -9,7 +9,7 @@ And no answers in inline questions too. :(
 
 ## Notice in assignment2
 `cnn.py` and `cnn_ap.py` files are for test convolution in locally.<br>
-`cnn.py, classifier/conv.py` is [conv-relu-conv-relu]-pool-fc1-fc2-softmax architecture, and `cnn_ap.py, classifier/conv_ap.py` use average pooling technique instead of fc1 layer in `conv.py`
+`cnn.py, classifier/conv.py` is `[conv - relu - conv - relu] - pool - fc1 - fc2 - softmax` architecture, and `cnn_ap.py, classifier/conv_ap.py` use average pooling technique instead of `fc1` layer in `conv.py`
 
 And use xavier init instead of gaussian normalization in all files.<br>
 
